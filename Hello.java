@@ -1,6 +1,6 @@
 public class Hello[
   public static void main(String[]args){
     System.out.println("Hello, Software Engineering 1!");
-    System.out.println("Student name: TORREGOZA, Aerold")
+    System.out.println("My Name is TORREGOZA, Aerold!");
       }
 }
